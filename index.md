@@ -1,7 +1,7 @@
 ## A.I NFT Gallery-Stacker
 
 More project updates soon.
-![UniverseBioGoat](https://elkozirro.github.io/pcs/mechakozyb.svg)
+![UniverseBioGoat](https://elkozirro.github.io/pcs/BioG.svg)
 
 ### A.I NFT
 Whitepapper
@@ -15,7 +15,7 @@ Project Idea
 ```
 ### Support or Contact
 
-![DEVCOM STUDIO](https://elkozirro.github.io/pcs/LOGO.svg)
+![DEVCOM STUDIO](https://elkozirro.github.io/pcs/LOGOB.svg)
 
 See more... Thanks to [DEVCOM](https://devcom-tech.pl).
 Email: devcom@devcom-tech.pl
