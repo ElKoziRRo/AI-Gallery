@@ -9,7 +9,7 @@ Whitepapper
 ```markdown
 Project Idea
 
-      A. I.   Generate _NFT_
+      A-I Generate _NFT_
  ![UniverseBioGoat](https://elkozirro.github.io/pcs/BioG.svg)
  
  SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-universe)
