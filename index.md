@@ -16,8 +16,8 @@ DONE ----> A-I Generate _NFT_
             Run on **Polygon**
 ```   
  
-FIRST PRE-SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-universe)
- 
+FIRST PRE-SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-universe)  ![UniverseBioGoat](https://elkozirro.github.io/pcs/BioG.svg)
+
  
 
 ### Support or Contact
