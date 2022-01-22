@@ -1,7 +1,7 @@
 ## A.I NFT Gallery-Stacker
 
 More project updates soon.
-![UniverseBioGoat](https://elkozirro.github.io/pcs/stacker.svg)
+![UniverseBioGoat](https://elkozirro.github.io/pcs/stacker2.svg)
 
 ### A.I NFT
 Whitepapper
