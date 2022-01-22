@@ -1,30 +1,18 @@
 ## A.I NFT Gallery-Stacker
 
-
 More project updates soon.
-
-
-
-
 ![UniverseBioGoat](https://elkozirro.github.io/pcs/mechakozyb.svg)
 
 ### A.I NFT
-
 Whitepapper
 
 ```markdown
 Project Idea
 
-# Generate _NFT_
-# Code the `Stacker`
-# Run on **Polygon**
-
-
- 
-
+ Generate _NFT_
+ Code the `Stacker`
+ Run on **Polygon**
 ```
-
-
 ### Support or Contact
 
 ![DEVCOM STUDIO](https://elkozirro.github.io/pcs/LOGO.svg)
