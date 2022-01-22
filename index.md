@@ -1,7 +1,7 @@
 ## A.I NFT Gallery-Stacker
 
 More project updates soon.
-![UniverseBioGoat](https://elkozirro.github.io/pcs/BioG.svg)
+![UniverseBioGoat](https://elkozirro.github.io/pcs/stacker.svg)
 
 ### A.I NFT
 Whitepapper
@@ -9,7 +9,12 @@ Whitepapper
 ```markdown
 Project Idea
 
- Generate _NFT_
+      A. I.   Generate _NFT_
+ ![UniverseBioGoat](https://elkozirro.github.io/pcs/BioG.svg)
+ 
+ SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-universe)
+ 
+ 
  Code the `Stacker`
  Run on **Polygon**
 ```
