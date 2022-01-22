@@ -52,16 +52,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
+    <path
        style="fill:#0d1718;fill-opacity:1;stroke:#000000;stroke-width:0.64158618;stroke-opacity:0.01185769"
-       id="rect3045"
-       width="1050.5771"
-       height="743.04907"
-       x="3.3203492"
-       y="4.039516"
-       inkscape:export-filename="C:\Users\ElKoziRRo\Pictures\WYGENEROWANE\image3015.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+       d="m 3.3203492,4.039516 1050.5771508,0 0,743.049074 -1050.5771508,0 z"
+       id="rect3045" />
     <image
        y="130.4539"
        x="291.99399"
@@ -106,19 +100,54 @@
        transform="matrix(0.88829193,-0.45927926,0.47259515,0.88127965,0,0)"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3148"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Unispace;-inkscape-font-specification:Unispace Bold"
-       transform="translate(20.729763,-66.795904)"><flowRegion
-         id="flowRegion3150"><rect
-           id="rect3152"
-           width="916.71619"
-           height="290.21667"
-           x="64.492599"
-           y="92.258598" /></flowRegion><flowPara
-         id="flowPara3154"
-         style="font-size:140px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:'{PixelFlag}';-inkscape-font-specification:'{PixelFlag}'"><flowSpan
-   style="text-align:center;letter-spacing:32.20006561px;text-anchor:middle;fill:#ffffff"
-   id="flowSpan3156">NFT </flowSpan>STACKER</flowPara></flowRoot>  </g>
+    <g
+       transform="translate(20.729763,-66.795904)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Unispace;-inkscape-font-specification:Unispace Bold"
+       id="flowRoot3148">
+      <path
+         d="m 90.959244,267.25 0,-8.75 69.999996,0 0,8.75 z m 43.749996,-35 0,-8.75 8.75,0 0,8.75 z m -8.75,-8.75 0,-8.75 8.75,0 0,8.75 z m -8.75,-8.75 0,-8.75 8.75,0 0,8.75 z m -17.499996,35 0,-61.25 8.749996,0 0,8.75 8.75,0 0,8.75 -8.75,0 0,43.75 z m 52.499996,0 0,-8.75 -8.75,0 0,-8.75 8.75,0 0,-43.75 8.75,0 0,61.25 z m -61.249996,-70 0,-8.75 69.999996,0 0,8.75 z"
+         style="text-align:center;letter-spacing:32.20006561000000300px;text-anchor:middle;fill:#ffffff"
+         id="path3761" />
+      <path
+         d="m 193.15931,267.25 0,-8.75 70,0 0,8.75 z m 8.75,-17.5 0,-61.25 61.25,0 0,8.75 -52.5,0 0,17.5 35,0 0,8.75 -35,0 0,26.25 z m -8.75,-70 0,-8.75 70,0 0,8.75 z"
+         style="text-align:center;letter-spacing:32.20006561000000300px;text-anchor:middle;fill:#ffffff"
+         id="path3763" />
+      <path
+         d="m 295.35937,267.25 0,-8.75 70,0 0,8.75 z m 35,-17.5 0,-52.5 -26.25,0 0,-8.75 61.25,0 0,8.75 -26.25,0 0,52.5 z m -35,-70 0,-8.75 70,0 0,8.75 z"
+         style="text-align:center;letter-spacing:32.20006561000000300px;text-anchor:middle;fill:#ffffff"
+         id="path3765" />
+      <path
+         d="m 397.55943,267.25 0,-8.75 17.5,0 0,8.75 z m 0,-87.5 0,-8.75 17.5,0 0,8.75 z"
+         style="text-align:center;letter-spacing:32.20006561000000300px;text-anchor:middle;fill:#ffffff"
+         id="path3767" />
+      <path
+         d="m 447.25951,267.25 0,-8.75 70,0 0,8.75 z m 8.75,-17.5 0,-8.75 52.5,0 0,8.75 z m 52.5,-8.75 0,-17.5 8.75,0 0,17.5 z m -43.75,-17.5 0,-8.75 43.75,0 0,8.75 z m -8.75,-8.75 0,-17.5 8.75,0 0,17.5 z m 8.75,-17.5 0,-8.75 52.5,0 0,8.75 z m -17.5,-17.5 0,-8.75 70,0 0,8.75 z"
+         style="font-size:140px;font-weight:normal;font-family:'{PixelFlag}';-inkscape-font-specification:'{PixelFlag}';fill:#ffffff"
+         id="path3769" />
+      <path
+         d="m 517.25951,267.25 0,-8.75 70,0 0,8.75 z m 35,-17.5 0,-52.5 -26.25,0 0,-8.75 61.25,0 0,8.75 -26.25,0 0,52.5 z m -35,-70 0,-8.75 70,0 0,8.75 z"
+         style="font-size:140px;font-weight:normal;font-family:'{PixelFlag}';-inkscape-font-specification:'{PixelFlag}';fill:#ffffff"
+         id="path3771" />
+      <path
+         d="m 587.25951,267.25 0,-8.75 70,0 0,8.75 z m 8.75,-17.5 0,-52.5 8.75,0 0,17.5 43.75,0 0,-17.5 8.75,0 0,52.5 -8.75,0 0,-26.25 -43.75,0 0,26.25 z m 8.75,-52.5 0,-8.75 43.75,0 0,8.75 z m -17.5,-17.5 0,-8.75 70,0 0,8.75 z"
+         style="font-size:140px;font-weight:normal;font-family:'{PixelFlag}';-inkscape-font-specification:'{PixelFlag}';fill:#ffffff"
+         id="path3773" />
+      <path
+         d="m 657.25954,267.25 0,-8.75 70,0 0,8.75 z m 17.5,-17.5 0,-8.75 43.75,0 0,8.75 z m 43.75,-8.75 0,-8.75 8.75,0 0,8.75 z m -52.5,0 0,-43.75 8.75,0 0,43.75 z m 52.5,-35 0,-8.75 8.75,0 0,8.75 z m -43.75,-8.75 0,-8.75 43.75,0 0,8.75 z m -17.5,-17.5 0,-8.75 70,0 0,8.75 z"
+         style="font-size:140px;font-weight:normal;font-family:'{PixelFlag}';-inkscape-font-specification:'{PixelFlag}';fill:#ffffff"
+         id="path3775" />
+      <path
+         d="m 727.25954,267.25 0,-8.75 70,0 0,8.75 z m 61.25,-17.5 0,-8.75 8.75,0 0,8.75 z m -8.75,-8.75 0,-8.75 8.75,0 0,8.75 z m -8.75,-8.75 0,-8.75 8.75,0 0,8.75 z m 0,-17.5 0,-8.75 8.75,0 0,8.75 z m 8.75,-8.75 0,-8.75 8.75,0 0,8.75 z m -43.75,43.75 0,-61.25 8.75,0 0,26.25 26.25,0 0,8.75 -26.25,0 0,26.25 z m 52.5,-52.5 0,-8.75 8.75,0 0,8.75 z m -61.25,-17.5 0,-8.75 70,0 0,8.75 z"
+         style="font-size:140px;font-weight:normal;font-family:'{PixelFlag}';-inkscape-font-specification:'{PixelFlag}';fill:#ffffff"
+         id="path3777" />
+      <path
+         d="m 797.25954,267.25 0,-8.75 70,0 0,8.75 z m 8.75,-17.5 0,-61.25 61.25,0 0,8.75 -52.5,0 0,17.5 35,0 0,8.75 -35,0 0,17.5 52.5,0 0,8.75 z m -8.75,-70 0,-8.75 70,0 0,8.75 z"
+         style="font-size:140px;font-weight:normal;font-family:'{PixelFlag}';-inkscape-font-specification:'{PixelFlag}';fill:#ffffff"
+         id="path3779" />
+      <path
+         d="m 867.25954,267.25 0,-8.75 70,0 0,8.75 z m 61.25,-17.5 0,-26.25 8.75,0 0,26.25 z m 0,-35 0,-17.5 8.75,0 0,17.5 z m -52.5,35 0,-61.25 52.5,0 0,8.75 -43.75,0 0,17.5 43.75,0 0,8.75 -43.75,0 0,26.25 z m -8.75,-70 0,-8.75 70,0 0,8.75 z"
+         style="font-size:140px;font-weight:normal;font-family:'{PixelFlag}';-inkscape-font-specification:'{PixelFlag}';fill:#ffffff"
+         id="path3781" />
+    </g>
+  </g>
 </svg>
