@@ -11,12 +11,18 @@ Whitepapper here soon
 ```markdown
 Project Idea
 
+
 DONE ----> A-I Generate _NFT_
+
             Code the `Stacker`
             Run on **Polygon**
+            
+            
 ```   
- 
-FIRST PRE-SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-universe)  ![UniverseBioGoat](https://elkozirro.github.io/pcs/BioG.svg)
+
+
+![UniverseBioGoat](https://elkozirro.github.io/pcs/BioG.svg)
+FIRST PRE-SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-universe) 
 
  
 
@@ -25,5 +31,5 @@ FIRST PRE-SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-
 ![DEVCOM STUDIO](https://elkozirro.github.io/pcs/LOGOB.svg)
 
 See more... Thanks to [DEVCOM](https://devcom-tech.pl).
-Email: devcom@devcom-tech.pl
+```Email: devcom@devcom-tech.pl``
  
