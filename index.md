@@ -4,20 +4,22 @@ More project updates soon.
 ![UniverseBioGoat](https://elkozirro.github.io/pcs/stacker2.svg)
 
 ### A.I NFT
-Whitepapper
+
+Whitepapper here soon
+
 
 ```markdown
 Project Idea
 
-      A-I Generate _NFT_
- ![UniverseBioGoat](https://elkozirro.github.io/pcs/BioG.svg)
+DONE ----> A-I Generate _NFT_
+            Code the `Stacker`
+            Run on **Polygon**
+```   
  
- SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-universe)
+FIRST PRE-SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-universe)
  
  
- Code the `Stacker`
- Run on **Polygon**
-```
+
 ### Support or Contact
 
 ![DEVCOM STUDIO](https://elkozirro.github.io/pcs/LOGOB.svg)
