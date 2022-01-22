@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## A.I NFT Gallery-Stacker
 
-You can use the [editor on GitHub](https://github.com/ElKoziRRo/NFT.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More project updates soon.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+![UniverseBioGoat](https://elkozirro.github.io/pcs/mechakozyb.svg)
+
+### A.I NFT
+
+Whitepapper
 
 ```markdown
-Syntax highlighted code block
+Project Idea
 
-# Header 1
-## Header 2
-### Header 3
+# Generate _NFT_
+# Code the `Stacker`
+# Run on **Polygon**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+ 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElKoziRRo/NFT.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![DEVCOM STUDIO](https://elkozirro.github.io/pcs/LOGO.svg)
+
+See more... Thanks to [DEVCOM](https://devcom-tech.pl).
+Email: devcom@devcom-tech.pl
