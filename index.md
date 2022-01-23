@@ -1,8 +1,3 @@
-## A.I NFT Gallery
-
-More project updates soon.
-![UniverseBioGoat](https://elkozirro.github.io/pcs/mechakozyb.svg)
-
 ### A.I NFT
 
 Tottally cool as Your new art at wall :)
