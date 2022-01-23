@@ -26,5 +26,5 @@ FIRST PRE-SALE STARTED AT [OpenSEA](https://opensea.io/collection/biomechanical-
 ![DEVCOM STUDIO](https://elkozirro.github.io/pcs/LOGOB.svg)
 
 See more... Thanks to [DEVCOM](https://devcom-tech.pl).
-```Email: devcom@devcom-tech.pl``
+``Email: devcom@devcom-tech.pl``
  
