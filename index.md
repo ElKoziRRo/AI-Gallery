@@ -1,7 +1,7 @@
 ## A.I NFT Gallery
 
 More project updates soon.
-![UniverseBioGoat](https://elkozirro.github.io/pcs/stacker2.svg)
+![UniverseBioGoat](https://elkozirro.github.io/pcs/mechakozyb.svg)
 
 ### A.I NFT
 
