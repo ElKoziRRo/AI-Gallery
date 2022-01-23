@@ -5,17 +5,12 @@ More project updates soon.
 
 ### A.I NFT
 
-Whitepapper here soon
+Tottally cool as Your new art at wall :)
 
 
 ```markdown
-Project Idea
 
-
-DONE ----> A-I Generate _NFT_
-
-            Code the `Stacker`
-            Run on **Polygon**
+A. I.    G E N E R A T E D    G R A P H I C S
             
             
 ```   
